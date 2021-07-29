@@ -1,8 +1,10 @@
 # Terminal Linux
 
+Anotações de Isaac Pereira da Conceição Araujo
+
 O terminal é uma linha de comandos onde podemos executar programas específicos do Linux. A maioria dos comandos são iguais em diversas distros ("distribuições).
 
-> Acessando o terminal
+## Acessando o terminal
 
 O terminal pode ser acessado através da interface gráfica, pesquisando pelo mesmo na aba de atividades. 
 
