@@ -150,3 +150,5 @@ O comando ***whatis*** o que é determinada função
 O comando ***find*** retorna o caminho (Filepath) para o arquivo indicado
 
 > ```find meuTexto.txt```
+
+## Diretórios do Linux e Comandos do Sistema
