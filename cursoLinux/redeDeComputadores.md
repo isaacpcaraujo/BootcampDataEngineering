@@ -24,3 +24,43 @@ Existem diversos protócolos.
 
 A interface de rede é um software e/ou hardware que faz a comunicação em uma rede de computadores. No linux, essas interfaces estão localizadas no diretório ***/dev***.
 
+**Curiosidade**: A interface loopback é um tipo especial que permite fazer conexões com vocẽ mesmo. Você pode testar vários programas de rede sem interferir na sua rede. O endereço IP 127.0.0.1 foi escolhido para o loopback.
+
+## Comandos de Rede no Linux
+
+Será necessário instalar o repositório net-tools no seu terminal.
+
+No Ubuntu/Mint:
+> ```sudo apt install net-tools```
+
+No Manjaro:
+> ```sudo pacman -S net-tools```
+
+O comando ***ifconfig*** é utilizado para visualizar e configurar as interfaces de rede. Utilizando-a sem argumentos visualizamos o status de nossas interfaces.
+
+> ```ifconfig```
+
+O comando ***hostname*** mostra ou muda o nome do computador na rede.
+
+Nome do host
+> ```hostname```
+
+Endereço de IP
+> ```hostname -I```
+
+Endereço de loopback
+> ```hostname -i```
+
+O comando ***ping*** utiliza o datagrama Echo Request do protocolo ICMP para testar a conectividade entre equipamentos
+
+> ```ping www.google.com```
+
+O comando ***traceroute*** mostra todos os nós existentes até chegar ao domínio desejado. É necessário instalar o repositório **traceroute**
+
+> ```traceroute www.google.com```
+
+O comando finger exibe informações sobre um usuário.
+
+> ```finger```
+
+Com esses comandos conseguimos visualizar e configurar aspectos de nossas redes.

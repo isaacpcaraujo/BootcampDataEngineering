@@ -152,3 +152,46 @@ O comando ***whatis*** o que é determinada função
 O comando ***find*** retorna o caminho (Filepath) para o arquivo indicado
 
 > ```find meuTexto.txt```
+
+## Fuçando um pouco mais os comandos do linux
+
+Podemos utilizar o comando ***alias*** para criar um apelido para um determinado comando.
+
+> ```alias hh='history"```
+> ```hh```
+
+O comando ***nl*** retorna o arquivo com as linhas especificadas do mesmo.
+
+> ```nl arquivoTexto.txt```
+
+Também é possível utilizar o comando wc para exibir caracteristicas de um determinado arquivo.
+
+Numero de linhas
+> ```wc -l arquivoTexto.txt```
+
+Numero de palavras
+> ```wc -w arquivoTexto.txt```
+
+Mais opções
+> ```wc --help```
+
+Conseguimos visualizar os arquivos e diretórios ocultos utilizando o comando ***ls***.
+> ```ls -a```
+
+O comando route mostra a tabela de roteamento de nossa rede.
+
+> ```route -n```
+
+Pode-se utilizar o comando time para verificar o tempo de execução de determinado comando.
+
+> ```time traceroute www.google.com```
+
+Para fins de alegria e referências, podemos utilizar o comando cmatrix para exibir os códigos do filme Matrix em nosso terminal.
+
+> ```cmatrix```
+
+Com o fim de terminar sua jornada, você pode desligar sua maquina utilizando o comando ***halt***
+
+> ```halt```
+
+halt.
