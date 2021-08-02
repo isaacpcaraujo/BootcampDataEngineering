@@ -37,8 +37,8 @@ Banco Carrefour Data Engineer
  - [x] Comandos com Shell Script - Parte 2.
 
 ## Introdução a Engenharia de Dados
- - [ ] O que é engenharia de dados;
- - [ ] Business Intelligence.
+ - [x] O que é engenharia de dados;
+ - [x] Business Intelligence.
 
 ## Introdução a Ciência de Dados
  - [ ] Overview data science;
