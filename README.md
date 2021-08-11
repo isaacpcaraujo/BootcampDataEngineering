@@ -42,7 +42,7 @@ Banco Carrefour Data Engineer
 
 ## Introdução a Ciência de Dados
  - [x] Overview data science;
- - [ ] Tipos de aprendizagem de máquina;
+ - [x] Tipos de aprendizagem de máquina;
  - [ ] Modelo em Python.
 
 ## Fundamentos de Arquitetura de Sistemas
@@ -87,7 +87,7 @@ Banco Carrefour Data Engineer
  - [x] Lidando com módulos, importação de classes, métodos e construção de funções anônimas (lambda);
  - [x] Gere, copie, mova, escreva e leia informações de arquivos externos;
  - [x] Aprenda a utilizar informações de data, horário e relacionar datas diferentes;
- - [ ] Gerenciando e criando exceções customizadas com try, except, else e finally;
+ - [x] Gerenciando e criando exceções customizadas com try, except, else e finally;
  - [ ] Instalando e utilizando pacotes em Python e realizar requisição com requests.
  
 **(Em Construção!!!)**
