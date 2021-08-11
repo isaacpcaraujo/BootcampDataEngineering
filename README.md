@@ -41,7 +41,7 @@ Banco Carrefour Data Engineer
  - [x] Business Intelligence.
 
 ## Introdução a Ciência de Dados
- - [ ] Overview data science;
+ - [x] Overview data science;
  - [ ] Tipos de aprendizagem de máquina;
  - [ ] Modelo em Python.
 
@@ -63,5 +63,31 @@ Banco Carrefour Data Engineer
  - [ ] Rede do Docker;
  - [ ] Armazenamento no Docker;
  - [ ] Nosso projeto no ar!.
+ 
+## Conceitos e melhores práticas com bancos de dados PostgreSQL
+ - [ ] Introdução ao banco de dados PostgreSQL;
+ - [ ] Objetos e tipos de dados do PostgreSQL;
+ - [ ] Fundamentos da Structured Query Language (SQL);
+ - [ ] Comandos avançados da Structured Query Language (SQL);
+
+ ## Introdução ao MongoDB e Bancos de Dados NoSQL
+ - [ ] Introdução ao NoSQL;
+ - [ ] Conhecendo os tipos de banco de dados NoSQL;
+ - [ ] Introdução ao MongoDB e instalação;
+ - [ ] Schema Design e boas práticas;
+ - [ ] Alguns conceitos na prática;
+
+## Introdução à programação com Python
+ - [x] Aprenda o que é a linguagem Python e como configurar o ambiente de desenvolvimento;
+ - [x] O que são variáveis e como manipulá-las através de operadores aritméticos e interação com usuário;
+ - [x] Como criar laços de repetição em Python;
+ - [x] Como organizar os dados em uma lista ou tupla e realizar operações com elas;
+ - [x] Organizando conjuntos e subconjuntos de elementos em Python;
+ - [x] Construindo métodos, funções e classes em Python;
+ - [x] Lidando com módulos, importação de classes, métodos e construção de funções anônimas (lambda);
+ - [x] Gere, copie, mova, escreva e leia informações de arquivos externos;
+ - [x] Aprenda a utilizar informações de data, horário e relacionar datas diferentes;
+ - [ ] Gerenciando e criando exceções customizadas com try, except, else e finally;
+ - [ ] Instalando e utilizando pacotes em Python e realizar requisição com requests.
  
 **(Em Construção!!!)**
