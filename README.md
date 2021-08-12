@@ -88,6 +88,6 @@ Banco Carrefour Data Engineer
  - [x] Gere, copie, mova, escreva e leia informações de arquivos externos;
  - [x] Aprenda a utilizar informações de data, horário e relacionar datas diferentes;
  - [x] Gerenciando e criando exceções customizadas com try, except, else e finally;
- - [ ] Instalando e utilizando pacotes em Python e realizar requisição com requests.
+ - [x] Instalando e utilizando pacotes em Python e realizar requisição com requests.
  
 **(Em Construção!!!)**
