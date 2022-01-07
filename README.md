@@ -1,10 +1,5 @@
 # Digital Innovation One 
 
-Banco Carrefour Data Engineer
-
- ## Boas-vindas ao Bootcamp Banco Carrefour Data Engineer
- - [x] Conheça o Banco Carrefour.
-
 ## Bem-vindo à DIO
  - [x] Boas vindas à DIO.
 
@@ -43,7 +38,7 @@ Banco Carrefour Data Engineer
 ## Introdução a Ciência de Dados
  - [x] Overview data science;
  - [x] Tipos de aprendizagem de máquina;
- - [ ] Modelo em Python.
+ - [x] Modelo em Python.
 
 ## Fundamentos de Arquitetura de Sistemas
  - [ ] Vantagens e desenvolvimento de Web Services;
