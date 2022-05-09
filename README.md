@@ -1,4 +1,4 @@
-# Studying
+# Alguns resumos feitos
 
 ## Introdução ao Git e ao GitHub (Digital Inovation One)
  - [x] Introdução ao Git;
